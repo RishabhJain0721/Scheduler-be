@@ -1,4 +1,4 @@
-import ToDo from "../models/toDo.js";
+import ToDo from "../models/ToDo.js";
 import reminderQueue from "../queues/remainderQueue.js";
 
 const addRemainder = async ({
